@@ -40,6 +40,7 @@ THEN I find a concise, descriptive title
  To install this application, clone the code into your terminal for the respective repository.
 
 ## Usage
+Visit the link to the webpage here https://gocrushgoals.github.io/Challenge-One/
 Use the navigation bar to view the selected sections of the webpage.
 
 ## Credits
