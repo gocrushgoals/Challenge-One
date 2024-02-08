@@ -12,6 +12,8 @@ Given a marketing website starter code, I refactored the code to meet the follow
 
 I had some success with refactoring the code, and I had some failures. While attempting to utilize semantic HTML, I lost some essential properties within the CSS. I learned that the structure and orginization of the code is critical. I need to review more of the basic features of HTML and CSS because I need a more solid foundation of the building blocks of these in order to succeed in the future. 
 
+Screenshot of page https://github.com/gocrushgoals/Challenge-One/blob/main/assets/images/ChallengeOneSS.png 
+
 # User Story
 
 AS A marketing agency
@@ -52,7 +54,9 @@ README Guide:
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 
+## License
 
+Refer to the license in the repository
 
 
 
